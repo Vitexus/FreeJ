@@ -3,7 +3,7 @@ Section: unknown
 Priority: optional
 Maintainer: vitex <info@vitexsoftware.cz>
 Build-Depends: debhelper-compat (= 12),
-	dh-autoreconf, c++-compiler,libtool,flex,bison,libsdl-dev,libpng-dev,libfreetype6-dev,libfontconfig-dev,dpatch, libogg-dev, libvorbis-dev,libjpeg-dev,libslang2-dev,libtheora-dev,libavcodec-dev,libavformat-dev,libbluetooth-dev,fftw3-dev,libjack-dev,libasound-dev,liblo0-dev, swig, python-dev, libswscale-dev, libshout-dev, libsamplerate-dev, libaa1-dev, automake
+	dh-autoreconf, c++-compiler,libtool,flex,bison,libsdl-dev,libpng-dev,libfreetype6-dev,libfontconfig-dev,dpatch, libogg-dev, libvorbis-dev,libjpeg-dev,libslang2-dev,libtheora-dev,libavcodec-dev,libavformat-dev,libbluetooth-dev,fftw3-dev,libjack-dev,libasound-dev,liblo0-dev, swig, python-dev, libswscale-dev, libshout-dev, libsamplerate-dev, libaa1-dev, automake, libsdl2-image-dev, libsdl-image1.2-dev, libsdl-ttf2.0-dev
 Standards-Version: 4.5.0
 Homepage: https://www.dyne.org/software/freej/
 Vcs-Git: https://github.com/Vitexus/FreeJ.git
